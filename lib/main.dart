@@ -28,7 +28,7 @@ void main() {
         ),
         textTheme: ThemeData().textTheme.copyWith(
               titleLarge: TextStyle(
-                fontWeight: FontWeight.normal,
+                fontWeight: FontWeight.bold,
                 color: kColorScheme.onSecondaryContainer,
                 fontSize: 18,
               ),
